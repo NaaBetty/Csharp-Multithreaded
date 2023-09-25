@@ -1,0 +1,14 @@
+/Users/naa-adjekai/Downloads/All Projects/Adaptive Computer Solutions /JustCode/bin/Debug/net7.0/JustCode
+/Users/naa-adjekai/Downloads/All Projects/Adaptive Computer Solutions /JustCode/bin/Debug/net7.0/JustCode.deps.json
+/Users/naa-adjekai/Downloads/All Projects/Adaptive Computer Solutions /JustCode/bin/Debug/net7.0/JustCode.runtimeconfig.json
+/Users/naa-adjekai/Downloads/All Projects/Adaptive Computer Solutions /JustCode/bin/Debug/net7.0/JustCode.dll
+/Users/naa-adjekai/Downloads/All Projects/Adaptive Computer Solutions /JustCode/bin/Debug/net7.0/JustCode.pdb
+/Users/naa-adjekai/Downloads/All Projects/Adaptive Computer Solutions /JustCode/obj/Debug/net7.0/JustCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naa-adjekai/Downloads/All Projects/Adaptive Computer Solutions /JustCode/obj/Debug/net7.0/JustCode.AssemblyInfoInputs.cache
+/Users/naa-adjekai/Downloads/All Projects/Adaptive Computer Solutions /JustCode/obj/Debug/net7.0/JustCode.AssemblyInfo.cs
+/Users/naa-adjekai/Downloads/All Projects/Adaptive Computer Solutions /JustCode/obj/Debug/net7.0/JustCode.csproj.CoreCompileInputs.cache
+/Users/naa-adjekai/Downloads/All Projects/Adaptive Computer Solutions /JustCode/obj/Debug/net7.0/JustCode.dll
+/Users/naa-adjekai/Downloads/All Projects/Adaptive Computer Solutions /JustCode/obj/Debug/net7.0/refint/JustCode.dll
+/Users/naa-adjekai/Downloads/All Projects/Adaptive Computer Solutions /JustCode/obj/Debug/net7.0/JustCode.pdb
+/Users/naa-adjekai/Downloads/All Projects/Adaptive Computer Solutions /JustCode/obj/Debug/net7.0/JustCode.genruntimeconfig.cache
+/Users/naa-adjekai/Downloads/All Projects/Adaptive Computer Solutions /JustCode/obj/Debug/net7.0/ref/JustCode.dll
